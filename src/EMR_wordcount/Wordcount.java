@@ -1,3 +1,7 @@
+
+//JAR location : s3://rv.de.emr/input/EMR.jar
+//Arguments : EMR_wordcount.Wordcount s3://rv.de.emr/input/Troy s3://rv.de.emr/input/outasdas
+
 package EMR_wordcount;
 
 
